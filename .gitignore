@@ -1,0 +1,37 @@
+# html:
+*.html
+
+# txt
+*.txt
+
+# xml:
+*.xml
+*.xlsx
+
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+*.exe
+
+# py:
+*.pyc
+
+#class:
+*.class
+
+# log:
+*.log
+
+# zip:
+*.zip
+*.rar
+*.7z
+*.lz4
+
+# csv:
+*.csv
+
+# json:
+*.json
+
